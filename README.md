@@ -8,9 +8,9 @@ python MegaBurner.py {COM-port} {option} {file_path}
 ```
 COM-port is your connected device with MegaBurner fw by Maximaas.
 Options
->E for erace (don't need file_path)
->R for read from memory
->W for write to memory
+* E for erace (don't need file_path)
+* R for read from memory
+* W for write to memory
 
 ## Research and References
 
